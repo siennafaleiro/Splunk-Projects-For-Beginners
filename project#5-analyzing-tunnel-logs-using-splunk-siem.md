@@ -11,6 +11,10 @@ Before starting the project, ensure the following:
 - Splunk instance is installed and configured.
 - Tunnel log data sources from Zeek IDS are configured to forward logs to Splunk.
 
+If you want to prepare for the Splunk certification, this certification will help you.
+
+- [SPLK-2003: Splunk SOAR Certified Automation Developer](https://www.certfun.com/splunk/splk-2003-splunk-soar-certified-automation-developer)
+
 ## Steps to Upload Sample Tunnel Log Traffic from Zeek IDS to Splunk SIEM
 
 ### 1. Prepare Sample Tunnel Log Files
