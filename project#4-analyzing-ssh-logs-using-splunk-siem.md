@@ -11,6 +11,10 @@ Before starting the project, ensure the following:
 - Splunk instance is installed and configured.
 - SSH log data sources are configured to forward logs to Splunk.
 
+If you want to prepare for the Splunk certification, this certification will help you.
+
+- [SPLK-4001: Splunk O11y Cloud Certified Metrics User](https://www.certfun.com/splunk/splk-4001-splunk-o11y-cloud-certified-metrics-user)
+
 ## Steps to Upload Sample SSH Log Files to Splunk SIEM
 
 ### 1. Prepare Sample SSH Log Files
