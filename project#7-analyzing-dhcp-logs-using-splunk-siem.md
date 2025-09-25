@@ -11,6 +11,10 @@ Before starting the project, ensure the following:
 - Splunk instance is installed and configured.
 - DHCP log data sources are configured to forward logs to Splunk.
 
+If you want to prepare for the Splunk certification, this certification will help you.
+
+- [SPLK-3001: Splunk Enterprise Security Certified Administrator](https://www.certfun.com/splunk/splk-3001-splunk-enterprise-security-certified-admin)
+
 ## Steps to Upload Sample DHCP Log Files to Splunk SIEM
 
 ### 1. Prepare Sample DHCP Log Files
