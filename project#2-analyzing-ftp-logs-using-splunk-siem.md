@@ -11,6 +11,9 @@ Before starting the project, ensure the following:
 - Splunk instance is installed and configured.
 - FTP log data sources are configured to forward logs to Splunk.
 
+If you want to prepare for the Splunk certification, this certification will help you.
+- [SPLK-5002: Splunk Certified Cybersecurity Defense Engineer](https://www.certfun.com/splunk/splk-5002-splunk-certified-cybersecurity-defense-engineer)
+
 ## Steps to Upload Sample FTP Log Files to Splunk SIEM
 
 ### 1. Prepare Sample FTP Log Files
