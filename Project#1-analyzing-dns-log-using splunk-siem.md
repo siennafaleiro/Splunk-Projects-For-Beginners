@@ -8,6 +8,9 @@ Before analyzing DNS logs in Splunk, ensure the following:
 - Splunk instance is installed and configured.
 - DNS log data sources are configured to forward logs to Splunk.
 
+If you want to prepare for the Splunk certification, this certification will help you.
+- [SPLK-5001: Splunk Certified Cybersecurity Defense Analyst](https://www.certfun.com/splunk/splk-5001-splunk-certified-cybersecurity-defense-analyst)
+
 ## Steps to Upload Sample DNS Log Files to Splunk SIEM
 
 ### 1. Prepare Sample DNS Log Files
