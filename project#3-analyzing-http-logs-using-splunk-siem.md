@@ -11,6 +11,10 @@ Before starting the project, ensure the following:
 - Splunk instance is installed and configured.
 - HTTP log data sources are configured to forward logs to Splunk.
 
+If you want to prepare for the Splunk certification, this certification will help you.
+
+- [SPLK-1005: Splunk Cloud Certified Admin](https://www.certfun.com/splunk/splk-1005-splunk-cloud-certified-admin)
+
 ## Steps to Upload Sample HTTP Log Files to Splunk SIEM
 
 ### 1. Prepare Sample HTTP Log Files
